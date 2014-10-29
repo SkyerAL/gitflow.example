@@ -10,7 +10,11 @@ namespace animal
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dsds1234");
+<<<<<<< HEAD
+            Console.WriteLine("dsds124");
+=======
+            Console.WriteLine("dsds123");
+>>>>>>> 0fe5c2e95e9a421c1a08dbf698523b92ce2e03b9
         }
     }
 }
